@@ -1,4 +1,4 @@
-### Hi there , I'm Joakim👋
+### Hi there , I'm Joakim aka Thee Bug👋
 
 
 
