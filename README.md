@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on Flutter projects.
+- 🔭 I’m currently working on Flutter and Javascript projects.
 - 🌱 I’m currently learning everything 😂
 
 - 👯 I’m looking to collaborate on Open Source Projects.
